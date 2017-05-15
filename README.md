@@ -5,6 +5,7 @@ Research Directions to follow
 ### Basic Recognition
 * Base Algorithms: Classification, Detection, Segmentation, Description
 * Special: Face & Body & Hand
+* OCR
 
 
 ### Video Algorithms
@@ -30,7 +31,8 @@ Research Directions to follow
 * SLAM
   * Unsupervised Learning of Depth and Ego-Motion from Video
 * Knowledge Graph
-
+  * Collaborative Knowledge Base Embedding for Recommender Systems
+  * Neural Generative Question Answering
 
 ### Optimalization Algorithms
 
@@ -43,6 +45,10 @@ Research Directions to follow
   * RMSprop
   * Adam
 * Auto Hyper-Params
+  * Hyperopt: a Python library for model selection and hyperparameter optimization
+  * A Strategy for Ranking Optimization Methods using Multiple Criteria
+  * Optimizing Deep Learning Hyper-Parameters Through an Evolutionary Algorithm
+  * Preliminary Evaluation of Hyperopt Algorithms on HPOLib
 * Distributed
   * Caffe2
   * MXNet
